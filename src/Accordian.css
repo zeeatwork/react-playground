@@ -1,0 +1,14 @@
+ul li {
+  list-style: none;
+}
+
+li {
+  border: darkblue thin solid ;
+  border-collapse: collapse;
+  background-color: #F97068;
+}
+
+button {
+background-color: #D1D646;
+width: 100%;
+}
